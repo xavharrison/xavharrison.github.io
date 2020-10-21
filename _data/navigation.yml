@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "News and Opportunities"
-    url: /publications/
+    url: /news/
 
   - title: "Research"
     url: /portfolio/
@@ -12,5 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
      
+  - title: "Publications"
+    url: /publications/
+    
   - title: "CV"
     url: /cv/
