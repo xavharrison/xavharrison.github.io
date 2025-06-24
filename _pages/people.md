@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /people/
+title: "Lab Members"
 author_profile: true
 redirect_from: 
   - /md/

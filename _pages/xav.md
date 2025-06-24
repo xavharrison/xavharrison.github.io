@@ -1,6 +1,6 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
+permalink: /xav/
+title: "Xav Harrison CV"
 modified: 2016-06-06
 ---
 
