@@ -1,7 +1,7 @@
 ---
 permalink: /people/
-title: "Lab Members"
-author_profile: true
+title: ""
+author_profile: false
 
 ---
 
@@ -10,13 +10,17 @@ author_profile: true
 # Current Lab Members
 
 
-## Tasha Meadows 
+## Tasha Meadows (BBSRC SWBIO DTP)
+Tasha's PhD is part of a long term collaboration with the APHA, studying the dynamics of bovine tuberculosis infection within Woodchester Park. She is studying what shapes the bacterial microbiomes of European badgers, and the wider role of the environment as a conduit through which microbes and anti-microbial resistance (AMR) can spread. 
 
-## Laura Penny
+## Laura Penny (NERC ECORISC CDT)
 
-## Kingsley Hunt 
 
-## Becca Saxton 
+## Kingsley Hunt (BBSRC SWBIO DTP)
+
+
+## Becca Saxton (MRes Student)
+
 
 
 # Past Lab Members 
@@ -26,6 +30,6 @@ author_profile: true
 
 ## Izzie Jones (Leverhulme Trust PhD Student)
 
-## Dr Alice Pawlik (NERC GW4+ PhD Student)
+## Dr Alice Pawlik (NERC GW4+ DTP)
 
 ## Dr Anna Bowland 
