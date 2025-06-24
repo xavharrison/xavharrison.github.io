@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Xav Harrison CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,53 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2011  Ph.D in Migration Genetics, University of Exeter
+* 2006  BSc. Class I Biology, University of York 
 
-Work experience
+
+Employment 
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - Present    Senior Lecturer, University of Exeter
+* 2019 - 2021       Lecturer, University of Exeter 
+* 2013-2018         Research Fellow, Zoological Society of London 
+* 2011-2013         BBSRC Postdoctoral Researcher, University of Exeter
+* 2007-2011         NERC PhD Student, University of Exeter
+ 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Selected Publications
+======
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Meadows N, Delahay R, McDonald R, Powell S, Hopkins K, Arnold L, **Harrison XA**. Faecal microbiome varies with social group, age and bovine tuberculosis infection in the European Badger (Meles meles). https://ecoevorxiv.org/repository/view/9441/ 
+
+* Bowland AC, Bersacola E, Ramon M, Bessa J, Melin AD, Carrigan MA, **Harrison XA**, Hockings KJ. Wild chimpanzees share fermented fruits. Current Biology. 2025 Apr 21;35(8):R279-80. https://doi.org/10.1016/j.cub.2025.02.067
+
+* McMillan K, **Harrison XA** et al. (2024) Estimation of the size, density, and demographic distribution of the UK pet dog population. Scientific Reports 14, 31746. https://www.nature.com/articles/s41598-024-82358-y
+
+* Wallace M, Wille M, Geoghegan JL, Imrie RM, Hokmes EC, **Harrison XA**, Longdon B (2024). Making sense of the virome in light of ecology and evolution. Proceedings B 292: 20250389. https://doi.org/10.1098/rspb.2025.0389
+
+* Capilla-Lashera P, Bircher N, Brown A, **Harrison XA**, Reed T, York J, Cram D, Rutz C, Walker L, Naguib M, Young AJ (2024) Evolution of sex differences in cooperation may be driven by trade-offs with dispersal. PLOS Biology 22 e3002859 https://doi.org/10.1371/journal.pbio.3002859
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+I teach on a range of UG and PG modules, including 
+* BIO2407 Population and Community Ecology (Co-Convener)
+* BIO2459 Scillies Field Course (Module Lead)
+* BIO3459 Pyrenees Field Course (Co-Convener)
   
 Service and leadership
 ======

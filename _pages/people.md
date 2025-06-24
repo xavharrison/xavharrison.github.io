@@ -2,14 +2,13 @@
 permalink: /people/
 title: "Lab Members"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+
 ---
 
 {% include toc %}
 
 # Current Lab Members
+
 
 ## Tasha Meadows 
 
@@ -21,6 +20,7 @@ redirect_from:
 
 
 # Past Lab Members 
+
 
 ## Dr Kirsty Marsh (Leverhulme Trust PostDoc)
 
