@@ -23,3 +23,5 @@ of the chimp gut microbiome. Congrats Anna!
 
 - BBSRC PhD Student Tasha Meadows submitted her first first-author paper on the factor shaping the faecal microbiomes of European badgers, now available as a [Preprint](https://ecoevorxiv.org/repository/dashboard/9441/). 
 
+![lablogo](images/xavlablogo.png)
+
