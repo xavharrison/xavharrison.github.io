@@ -14,7 +14,7 @@ redirect_from:
 
 - __Chimps Share Fermented Fruits!__ Read our recent work on the sharing of fermented fruits by Chimpanzees published in [Current Biology](https://doi.org/10.1016/j.cub.2025.02.067)
 
-- __New Review on the Animal Virome__: A recent collaborative review out now in _Proc B_ on the causes and consequences of [virome variation in animals] (https://doi.org/10.1098/rspb.2025.0389). 
+- __New Review on the Animal Virome__: A recent collaborative review out now in _Proc B_ on the causes and consequences of [virome variation in animals](https://doi.org/10.1098/rspb.2025.0389). 
 
 
 Full List of Papers
