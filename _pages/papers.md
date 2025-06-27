@@ -9,56 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- __New Preprint:__ PhD Student Tasha Meadows leads on a paper investigating the drivers of among-individual varition in gut microbiome composition and dynamics in the European Badger _Meles meles_. Read the paper  [here](https://ecoevorxiv.org/repository/dashboard/9441/). 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- __Chimps Share Fermented Fruits!__ Read our recent work on the sharing of fermented fruits by Chimpanzees published in [Current Biology](https://doi.org/10.1016/j.cub.2025.02.067)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- __New Review on the Animal Virome__: A recent collaborative review out now in _Proc B_ on the causes and consequences of [virome variation in animals] (https://doi.org/10.1098/rspb.2025.0389). 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Full List of Papers
+===
+For a full list of papers see Xav's [Google Scholar](https://scholar.google.co.uk/citations?hl=en&pli=1&user=-LKz8tIAAAAJ)
+
+![lablogo](images/xavlablogo.png)

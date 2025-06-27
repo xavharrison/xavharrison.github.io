@@ -15,7 +15,7 @@ main:
     url: /people/
 
   - title: "Papers"
-    url: /year-archive/
+    url: /papers/
     
   - title: "Xav Harrison"
     url: /cv/
