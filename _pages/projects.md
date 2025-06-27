@@ -9,17 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+{% include toc %}
 
-Dog Diet and Gut Microbiomes
-===
+Below is a list of active projects in the lab. If you'd like any mor einformatin aboit these projects, or would like to enquire about working with me on one of them, then please drop me an email. 
 
-
-Understanding the Role of the Gut Microbiome in Migratory Birds
-==
+## Dog Diet and Gut Microbiomes
 
 
-Badgers, the Environment and Bovine Tuberculosis
-==
 
-Healthy Seas and Healthy People
-==
+## Gut Microbiomes and Migratory Bird Health
+
+
+
+## Badgers, the Environment, and Bovine Tuberculosis
+
+
+
+## Healthy Seas and Healthy People
+
