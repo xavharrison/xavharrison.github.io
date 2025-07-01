@@ -18,10 +18,11 @@ If you'd like to join the Wild Microbiome lab, please get in touch via email.
 Group News 
 ======
 
+![lablogo](images/xavlablogo.png){:width="250" height="250" .align-left}
+
 - Dr Anna Bowland passed her PhD viva with no corrections. Her thesis looks at the ingestion of fermented fruits in Chimpanzees, and individual dynamics 
 of the chimp gut microbiome. Congrats Anna!
 
 - BBSRC PhD Student Tasha Meadows submitted her first first-author paper on the factor shaping the faecal microbiomes of European badgers, now available as a [Preprint](https://ecoevorxiv.org/repository/dashboard/9441/). 
-
-![lablogo](images/xavlablogo.png)
+{:style="clear: left"}
 

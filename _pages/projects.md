@@ -32,7 +32,6 @@ Companion animals like dogs play a fundamental part in our lives, and are import
 {:style="clear: left"}
 
 
-
 ## Healthy Seas and Healthy People
 ![]({% link images/healthyseas.png %}){:width="250" height="250" .align-left}
 Seas, Rivers and Oceans are a vital component of ecosystem health, but are currently threatened by ever-increasing burdens of pollution. We want to understand how pollution changes the microbial dynamics of these ecosystems, and what risks pollution poses for both humans and animals. We use sequencing to profile the microbial communities in seawater and look for signatures of increases in both pathogenic bacteria and bacteria carrying genes for AMR.   
