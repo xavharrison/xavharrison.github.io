@@ -22,4 +22,4 @@ Full List of Papers
 For a full list of papers see Xav's [Google Scholar](https://scholar.google.co.uk/citations?hl=en&pli=1&user=-LKz8tIAAAAJ)
 
 
-![](/images/xavlablogo.png)
+![](~/images/xavlablogo.png)

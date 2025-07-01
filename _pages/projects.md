@@ -27,5 +27,5 @@ Below is a list of active projects in the lab. If you'd like any mor einformatin
 ## Healthy Seas and Healthy People
 
 
-![][/images/healthyseas.png]{: .align-left}
+![][./images/healthyseas.png]{: .align-left}
 {:style="clear: left"}
