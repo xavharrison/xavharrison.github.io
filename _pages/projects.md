@@ -13,17 +13,19 @@ redirect_from:
 
 Below is a list of active projects in the lab. If you'd like any mor einformatin aboit these projects, or would like to enquire about working with me on one of them, then please drop me an email. 
 
-## Dog Diet and Gut Microbiomes
 
+## Badgers, the Environment, and Bovine Tuberculosis
 
 
 ## Gut Microbiomes and Migratory Bird Health
 
 
-
-## Badgers, the Environment, and Bovine Tuberculosis
+## Dog Diet and Gut Microbiomes
 
 
 
 ## Healthy Seas and Healthy People
 
+
+![healthyseas][/images/healthyseas.png]{: .align-left}
+{:style="clear: left"}
