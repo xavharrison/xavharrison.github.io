@@ -26,7 +26,6 @@ Below is a list of active projects in the lab. If you'd like any mor einformatin
 
 ## Healthy Seas and Healthy People
 
-
-![]({% link images/healthyseas.png %}){: .align-left .width="250"}
-SOME TEXT
+![]({% link images/healthyseas.png %}){:width="250" height="250" .align-left}
+SOME TEXT SOME TEXT SOME TEXT SOME TEXT SOME TEXT SOME TEXT SOME TEXT SOME TEXT SOME TEXT SOME TEXT 
 {:style="clear: left"}
