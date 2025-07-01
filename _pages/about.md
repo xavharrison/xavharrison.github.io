@@ -19,7 +19,6 @@ Group News
 ======
 
 ![lablogo](images/xavlablogo.png){:width="250" height="250" .align-left}
-
 - Dr Anna Bowland passed her PhD viva with no corrections. Her thesis looks at the ingestion of fermented fruits in Chimpanzees, and individual dynamics 
 of the chimp gut microbiome. Congrats Anna!
 
