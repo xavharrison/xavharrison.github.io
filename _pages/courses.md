@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Courses and Code"
-permalink: /projects/
+permalink: /courses/
 author_profile: false
 redirect_from:
   - /resume-json
