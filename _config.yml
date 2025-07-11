@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wild Microbiome Lab"
+title                    : "XavLab"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "xavheadshot.png"
   name             : "Dr Xav Harrison"
   pronouns         : # example: "she/her"  
-  bio              : "Group Leader & Molecular Ecologist"
+  bio              : "Associate Professor of Molecular Ecology"
   location         : "CEC Cornwall"
   employer         : "University of Exeter"
   uri              : # URL

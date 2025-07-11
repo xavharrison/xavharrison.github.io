@@ -29,7 +29,8 @@ Education
 
 Employment 
 ======
-* 2022 - Present    Senior Lecturer, University of Exeter
+* 2025 -            Associate Professor, University of Exeter
+* 2022 - 2025       Senior Lecturer, University of Exeter
 * 2019 - 2021       Lecturer, University of Exeter 
 * 2013-2018         Research Fellow, Zoological Society of London 
 * 2011-2013         BBSRC Postdoctoral Researcher, University of Exeter

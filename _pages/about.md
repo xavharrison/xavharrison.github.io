@@ -14,7 +14,7 @@ As a science hobby, I like to look at how best to apply statistical tools like G
 
 For more information, see the [Projects](projects.md) and [People](people.md) pages, and Group News below! Recent papers can be found [here](papers.md)
 
-If you'd like to join the Wild Microbiome lab, please get in touch via email. 
+If you'd like to join the lab, please get in touch via email. 
 {:style="clear: left"}
 
 
