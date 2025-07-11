@@ -16,9 +16,7 @@ I am a molecular ecologist with broad interests in statistics, genetics and beha
 
 Current Grants
 ======
-* NERC Pushing the Frontiers (£822,749 to Exeter, Co-PI) Testing evolutionary hypotheses for the long-term maintenance of balanced immunogenetic polymorphisms in a wildlife model (Lead Tschirren, Exeter). 
-
-* The Osborne Harvey PhD Studentship in Marine Turtle Conservation: Unravelling the causes and consequences of life history variation in green turtles. (Co-I, £110,000 to Exeter) 
+* NERC Pushing the Frontiers (Co-PI) Testing evolutionary hypotheses for the long-term maintenance of balanced immunogenetic polymorphisms in a wildlife model (Lead Tschirren, Exeter). 
 
 
 Education
@@ -29,12 +27,12 @@ Education
 
 Employment 
 ======
-* 2025 -            Associate Professor, University of Exeter
-* 2022 - 2025       Senior Lecturer, University of Exeter
-* 2019 - 2021       Lecturer, University of Exeter 
-* 2013-2018         Research Fellow, Zoological Society of London 
-* 2011-2013         BBSRC Postdoctoral Researcher, University of Exeter
-* 2007-2011         NERC PhD Student, University of Exeter
+* 2025 -                Associate Professor, University of Exeter
+* 2022 - 2025           Senior Lecturer, University of Exeter
+* 2019 - 2021           Lecturer, University of Exeter 
+* 2013-2018             Research Fellow, Zoological Society of London 
+* 2011-2013             BBSRC Postdoctoral Researcher, University of Exeter
+* 2007-2011             NERC PhD Student, University of Exeter
  
 
 Selected Publications
