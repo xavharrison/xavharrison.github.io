@@ -30,10 +30,16 @@ Gut-associated microbes provide a molecular toolkit for their animal hosts, shap
 
 
 
+
+
+
 ## Dog Diet and Gut Microbiomes
 ![]({% link images/dog_microbiome_amr.png %}){:width="250" height="250" .align-left}
 Companion animals like dogs play a fundamental part in our lives, and are important for our own wellbeing. Helping our pets live long and healthy lives is important, and one way we can optimise canine health is through manipulating their diet. This project will look at the imapct of raw versus cooked diets on dog gut microbiomes, with a particular focus on the prevalence of anti-microbial resistance. 
 {:style="clear: left"}
+
+
+
 
 
 
