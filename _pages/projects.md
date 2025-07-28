@@ -15,7 +15,7 @@ Below is a list of active projects in the lab. If you'd like any mor einformatin
 
 ## Badgers, the Environment, and Bovine Tuberculosis
 ![]({% link images/very_wet_badger.jpg %}){:width="250" height="250" .align-left}
-We use badgers as a model for understanding the interactions between the gut microbiome and immunity, given the signfiicant role they play as reservoirs of the zoonotic pathogen _Mycobacterium bovis_. We are particulalry interested in estimating the relative importance of direct (host-host) and indirect (host-environment) pathways as conduits for the spread of both commensal and pathogenic microbes. 
+We use badgers as a model for understanding the interactions between the gut microbiome and immunity, given the signfiicant role they play as reservoirs of the zoonotic pathogen _Mycobacterium bovis_. We are particularly interested in estimating the relative importance of direct (host-host) and indirect (host-environment) pathways as conduits for the spread of both commensal and pathogenic microbes. 
 Photo (C) By Andy Morffew 
 {:style="clear: left"}
 
