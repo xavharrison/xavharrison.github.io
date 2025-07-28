@@ -11,19 +11,22 @@ author_profile: false
 
 
 ## Tasha Meadows (BBSRC SWBIO DTP)
-![]({% link images/tashameadows.jpg %}){:width="250" height="250" .align-left}
+![]({% link images/tashameadows.jpg %}){:width="300" height="250" .align-left}
 Tasha's PhD is part of a long term collaboration with the APHA studying the dynamics of bovine tuberculosis infection in European badgers (_Meles meles_) within Woodchester Park. She is studying what shapes the bacterial microbiotas of the badgers, and the wider role of the environment as a conduit through which microbes and anti-microbial resistance (AMR) can spread. 
 {:style="clear: left"}
-""
-""
-""
-
+  
+  
+  
+  
 ## Laura Penny (NERC ECORISC CDT)
 Laura studies the impact of veterinary drugs (wormers and antibiotics) on the gut microbiome of various dung beetle species, all of which are key ecosystem engineers in the UK. Her PhD is in collaboration with the RSPB and CEH, and her field sites are on various farms dotted around Cornwall. 
-
+  
+  
+    
 ## James Chatfield (Harvey Osborne PhD Studentship)
 James is a rare entity in the Wild Microbiome Lab as he doesn't work on microbiomes (yet!). James's PhD focuses on the factors shaping the life history of Green turtles (_Chelonia mydas_) in Cyprus (lead Supervisor Annette Broderick). He will be using microsatellite genotyping to estimate relatedness among groups of turtles and to more precisely estimate key traits like age at first reproduction. 
-
+  
+  
 ## Kingsley Hunt (BBSRC SWBIO DTP)
 Kingsley is interested in the forces shaping cooperation and conflict in animal societies. His PhD uses the dampwood termite _Zootermopsis angusticollis_ as a model for understanding the importance of the gut microbiome for shaping group identity and interactions. 
 
