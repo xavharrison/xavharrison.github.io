@@ -11,7 +11,7 @@ redirect_from:
 
 {% include toc %}
 
-![]({% link images/coding_frog.png %})
+![]({% link images/coding_frog.png %}){:width="300" height="300"}
   
   
 Below is a set of links to teaching materials for a range of applications including microbiome bioinformatics and community ecology statistics, alongside some other materials focussed on programming, data science & ecological statistics. 

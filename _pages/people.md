@@ -38,6 +38,8 @@ Becca has been involved in the light-bellied Brent goose research project since 
 
 # Past Lab Members 
 
+## Dr Alice Pawlik (NERC GW4+ DTP)
+Alice was my first PhD student associated with my faculty position at Exeter, and came to the PhD a seasoned amphibian ecologist. Her work investigates the spatial and temporal dynamics of the Common frog (_Rana temporaria_) skin microbiome at multiple sites across Cornwall and Devon. She also conducted a nationwide survey focussed on the role of garden ponds as important habitat for wildlife and also for our own wellbeing. Papers to come soon!
 
 ## Dr Kirsty Marsh (Leverhulme Trust PostDoc)
 Kirsty works on the temporal dynamics of gut-associated microbial communities, using light-bellied Brent geese as a model system. Look out for papers soon on the covariance between bacterial and fungal communities in Brent geese, and how they are linked to diet and social network position. She previously completed her PhD on microbiome dynamics linked to diet and pathogen infection in wild mice. 
@@ -45,8 +47,6 @@ Kirsty works on the temporal dynamics of gut-associated microbial communities, u
 ## Izzie Jones (Leverhulme Trust PhD Student)
 Izzie undertook her MSc. research project on the factors shaping gut microbiome dynamics in light-bellied Brent geese, which we eventually published in [PeerJ](https://doi.org/10.7717/peerj.16682). Izzie went on to the PhD position on our Leverhulme grant, but ultimatley decided academia wasn't quite the right fit for her and went on to pursuse other career options. 
 
-## Dr Alice Pawlik (NERC GW4+ DTP)
-Alice was my first PhD student associated with my faculty position at Exeter, and came to the PhD a seasoned amphibian ecologist. Her work investigates the spatial and temporal dynamics of the Common frog (_Rana temporara_) skin microbiome at multiple sites across Cornwall and Devon. She also conducted a nationwide survey focussed on the role of garden ponds as important habitat for wildlife and also for our own wellbeing. Papers to come soon!
 
 ## Dr Anna Bowland 
 Anna started her PGR journey as an MRes student with me and Kim Hockings, before writing such a fantastic MRes thesis that she upgraded to a PhD program. As well as publishing on the signficiance of ethanol in fermented fruits consumed by chimpanzees, we are also working on a paper looking at diet-microbiome associations in wild chimps, and how these patterns may be affected by the availabiltiy of farmed fruits like cashew.   
