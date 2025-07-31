@@ -21,6 +21,8 @@ If you'd like to join the lab, please get in touch via email.
 Group News 
 ======
 
+- Xav has won a NERC Pushing the Frontiers grant with Mike Cant (Exeter) and Hazel Nichols (Swansea) to work on the role of the microbiome in determining scent and group identities in Banded Mongooses. Postdoctoral positions coming in 2026!
+
 - Dr Anna Bowland passed her PhD viva with no corrections. Her thesis looks at the ingestion of fermented fruits in Chimpanzees, and individual dynamics 
 of the chimp gut microbiome. Congrats Anna!
 
