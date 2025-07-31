@@ -16,12 +16,14 @@ I am a molecular ecologist with broad interests in statistics, genetics and beha
 
 Current Grants
 ======
+* NERC Pushing the Frontiers (Co-Lead; 2026-2029) The evolution and maintenance of group identity in animal societies. 
+
 * NERC Pushing the Frontiers (Co-PI) Testing evolutionary hypotheses for the long-term maintenance of balanced immunogenetic polymorphisms in a wildlife model (Lead Tschirren, Exeter). 
 
 
 Education
 ======
-* 2011  Ph.D in Migration Genetics, University of Exeter
+* 2011  Ph.D in Migration Ecology & Genetics, University of Exeter
 * 2006  BSc. Class I Biology, University of York 
 
 
@@ -57,6 +59,4 @@ I teach on a range of UG and PG modules, including
 * BIO2459 Scillies Field Course (Module Lead)
 * BIO3459 Pyrenees Field Course (Co-Convener)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

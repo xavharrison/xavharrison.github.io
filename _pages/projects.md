@@ -11,7 +11,7 @@ redirect_from:
 
 {% include toc %}
 
-Below is a list of active projects in the lab. If you'd like any mor einformatin aboit these projects, or would like to enquire about working with me on one of them, then please drop me an email. 
+Below is a list of active projects in the lab. If you'd like any more information about these projects, or would like to enquire about working with me on one of them, then please drop me an email. 
 
 ## Badgers, the Environment, and Bovine Tuberculosis
 ![]({% link images/very_wet_badger.jpg %}){:width="250" height="250" .align-left}
@@ -39,8 +39,11 @@ Gut-associated microbes provide a molecular toolkit for their animal hosts, shap
   
   
   
-
-
+  
+  
+    
+  
+  
 
 ## Dog Diet and Gut Microbiomes
 ![]({% link images/dog_microbiome_amr.png %}){:width="250" height="250" .align-left}
