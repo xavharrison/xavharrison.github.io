@@ -18,12 +18,18 @@ Contact Tasha at nh510{at}exeter.ac.uk
   
   
 ## James Chatfield (Harvey Osborne PhD Studentship)
-![]({% link images/jameschatfield.jpeg %}){:width="300" height="250" .align-left}
+![]({% link images/jameschatfield.jpeg %}){:width="200" height="200" .align-left}
 James is a rare entity in the Wild Microbiome Lab as he doesn't work on microbiomes (yet!). James's PhD focuses on the factors shaping the life history of Green turtles (_Chelonia mydas_) in Cyprus (lead Supervisor Annette Broderick). He will be using microsatellite genotyping to estimate relatedness among groups of turtles and to more precisely estimate key traits like age at first reproduction. 
 Contact James at jc233{at}exeter.ac.uk
   {:style="clear: left"}
     
   
+  
+  
+  
+  
+  
+            
 ## Laura Penny (NERC ECORISC CDT)
 Laura studies the impact of veterinary drugs (wormers and antibiotics) on the gut microbiome of various dung beetle species, all of which are key ecosystem engineers in the UK. Her PhD is in collaboration with the RSPB and CEH, and her field sites are on various farms dotted around Cornwall. 
   
