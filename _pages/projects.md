@@ -31,9 +31,10 @@ Photo (C) By Andy Morffew
 Gut-associated microbes provide a molecular toolkit for their animal hosts, shaping immunity, digestion and nutrition. This project, currently funded by the Leverhulme Trust, looks at how animal social networks and habitat selection can shape the gut microbiome. We want to understand how these communities change over time within individuals, and what the consequences are of differences in gut microbiota dynamics for downstream body condiiton and health. We use the light-bellied Brent goose (pictured) as a model for this work. 
 {:style="clear: left"}
   
-  
-    
-  
+<br/>
+<br/>
+<br/>
+<br/>  
   
   
   
@@ -50,11 +51,11 @@ Gut-associated microbes provide a molecular toolkit for their animal hosts, shap
 Companion animals like dogs play a fundamental part in our lives, and are important for our own wellbeing. Helping our pets live long and healthy lives is important, and one way we can optimise canine health is through manipulating their diet. This project will look at the imapct of raw versus cooked diets on dog gut microbiomes, with a particular focus on the prevalence of anti-microbial resistance. 
 {:style="clear: left"}
 
-  
-  
-  
-  
-  
+<br/>  
+<br/>
+<br/>  
+<br/>
+<br/>  
   
   
       
