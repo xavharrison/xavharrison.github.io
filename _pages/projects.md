@@ -19,12 +19,7 @@ We use badgers as a model for understanding the interactions between the gut mic
 Photo (C) By Andy Morffew 
 {:style="clear: left"}
 
-   
-    
-  
-  
-      
-  
+<br/>
       
 ## Gut Microbiomes and Migratory Bird Health
 ![]({% link images/brent_feeding.png %}){:width="250" height="250" .align-left}
@@ -33,18 +28,7 @@ Gut-associated microbes provide a molecular toolkit for their animal hosts, shap
   
 <br/>
 <br/>
-<br/>
-<br/>  
-  
-  
-  
-  
-  
-  
-  
-    
-  
-  
+
 
 ## Dog Diet and Gut Microbiomes
 ![]({% link images/dog_microbiome_amr.png %}){:width="250" height="250" .align-left}
@@ -54,12 +38,6 @@ Companion animals like dogs play a fundamental part in our lives, and are import
 <br/>  
 <br/>
 <br/>  
-<br/>
-<br/>  
-  
-  
-      
-
 
 
 ## Healthy Seas and Healthy People
