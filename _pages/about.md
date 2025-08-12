@@ -20,6 +20,7 @@ If you'd like to join the lab, please get in touch via email.
 
 Group News 
 ======
+- Xav and Kirsty have a new preprint on [the drivers of microbiome dynamics in conservation translocations](https://www.biorxiv.org/content/10.1101/2025.08.06.668623v1.abstract), now availalbe as a Preprint. This is a long term collaboration with [Rob Puschendorf](https://www.plymouth.ac.uk/staff/robert-puschendorf) at the University of Plymouth, working on endangered frogs in Costa Rica
 
 - Xav has won a NERC Pushing the Frontiers grant with Mike Cant (Exeter) and Hazel Nichols (Swansea) to work on the role of the microbiome in determining scent and group identities in Banded Mongooses. Postdoctoral positions coming in 2026!
 
