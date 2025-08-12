@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+- __New Preprint:__ Our latest paper on our National Geographic funded research on the dynamics of skin microbiome in the critically endangered frog _Craugastor ranoides_ is now available as [Preprint](https://www.biorxiv.org/content/10.1101/2025.08.06.668623v1.abstract).
 
 - __New Preprint:__ PhD Student Tasha Meadows leads on a paper investigating the drivers of among-individual varition in gut microbiome composition and dynamics in the European Badger _Meles meles_. Read the paper  [here](https://ecoevorxiv.org/repository/dashboard/9441/). 
 
