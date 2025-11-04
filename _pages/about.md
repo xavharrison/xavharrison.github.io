@@ -18,17 +18,27 @@ If you'd like to join the lab, please get in touch via email.
 {:style="clear: left"}
 
 
-Group News 
+New PhD Opportunities for 2026
 ======
-- Xav and Kirsty have a new preprint on [the drivers of microbiome dynamics in conservation translocations](https://www.biorxiv.org/content/10.1101/2025.08.06.668623v1.abstract), now availalbe as a Preprint. This is a long term collaboration with [Rob Puschendorf](https://www.plymouth.ac.uk/staff/robert-puschendorf) at the University of Plymouth, working on endangered frogs in Costa Rica
+There are several opportunities to join the Wild Microbiome Lab to do a PhD in 2026! Details below! Please get in touch about these opportunities before you apply
 
-- Xav has won a NERC Pushing the Frontiers grant with Mike Cant (Exeter) and Hazel Nichols (Swansea) to work on the role of the microbiome in determining scent and group identities in Banded Mongooses. Postdoctoral positions coming in 2026!
+- **Links Between Infection and Host Microbiome in the European Badger**
 
-- Dr Anna Bowland passed her PhD viva with no corrections. Her thesis looks at the ingestion of fermented fruits in Chimpanzees, and individual dynamics 
-of the chimp gut microbiome. Congrats Anna!
+[Project Description](https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/f/373/files/2025/11/swbio-26-projectCASE-8.pdf)
+Deadline 3rd December
 
-- BBSRC PhD Student Tasha Meadows submitted her first first-author paper on the factor shaping the faecal microbiomes of European badgers, now available as a [Preprint](https://ecoevorxiv.org/repository/dashboard/9441/). 
+- **AMR Dynamics in Wild Baboons**
+Jointly supervised between Exeter and Swansea with [Ines Fürtbauer](https://bsky.app/profile/inesfuertbauer.bsky.social)
 
-- Dr Angie Hayward has won a Leverhulme Fellowship to work on the link between gut microbiome and pesticide resistance in bees, and will be joining the lab later in the year.  
+[Project Description](https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/f/373/files/2025/11/swbio-26-projectAP-7.pdf) 
+Deadline 3rd December
+
+- **AMR Dynamics in Gamebirds in the UK**
+Lead supervisor [Barbara Tschirren](https://bsky.app/profile/btschirren.bsky.social)
+
+[Project Description](https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/f/373/files/2025/11/swbio-26-project-34.pdf) 
+Deadline 3rd December
+
+Watch this space for a PhD advert on AMR dynamics in migratory birds, coming soon! 
 
 
