@@ -21,7 +21,7 @@ If you'd like to join the lab, please get in touch via email.
 Group News
 ======
 
-- **New NERC PtF Grant: AMR Dynamics in Migraotry Birds**
+- **New NERC PtF Grant: AMR Dynamics in Migratory Birds**
 We have recently been awarded a 3 year NERC grant to study the role of migratory birds in the spread of antmicrobial resistance (AMR). The role will involve fieldwork in Ireland and Iceland, as well as a lot of lab work to profile bird gut microbiomes and 'resistomes' (collections of resistance genes/ARGs). If you think this skillset is aligned with your research interests then please get in touch!
 
 - **NERC PtF Grant: Microbiomes, Scent and Identity in Banded Mongooses**
