@@ -21,6 +21,9 @@ If you'd like to join the lab, please get in touch via email.
 Group News
 ======
 
+- **New Publication: Gut Microbiome Dynamics and Bovine Tb in European Badgers**
+Tasha's first first-author publication is now out in Molecular Ecology! Here we examine social group and age effects on gut microbiome in badgers, and ask whether gut microbiome composition predicts susceptibility to bovine Tb. Read [the paper here](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.70369) 
+
 - **New NERC PtF Grant: AMR Dynamics in Migratory Birds**
 We have recently been awarded a 3 year NERC grant to study the role of migratory birds in the spread of antmicrobial resistance (AMR). The role will involve fieldwork in Ireland and Iceland, as well as a lot of lab work to profile bird gut microbiomes and 'resistomes' (collections of resistance genes/ARGs). If you think this skillset is aligned with your research interests then please get in touch!
 

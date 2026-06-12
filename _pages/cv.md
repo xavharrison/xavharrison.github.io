@@ -16,9 +16,11 @@ I am a molecular ecologist with broad interests in statistics, genetics and beha
 
 Current Grants
 ======
+* NERC Pushing the Frontiers (Lead; 2026-2029) Migratory Birds as Drivers of AMR Transmission 
+
 * NERC Pushing the Frontiers (Co-Lead; 2026-2029) The evolution and maintenance of group identity in animal societies. 
 
-* NERC Pushing the Frontiers (Co-PI) Testing evolutionary hypotheses for the long-term maintenance of balanced immunogenetic polymorphisms in a wildlife model (Lead Tschirren, Exeter). 
+* NERC Pushing the Frontiers (Co-Lead) Testing evolutionary hypotheses for the long-term maintenance of balanced immunogenetic polymorphisms in a wildlife model (Lead Tschirren, Exeter). 
 
 
 Education
@@ -40,7 +42,7 @@ Employment
 Selected Publications
 ======
 
-* Meadows N, Delahay R, McDonald R, Powell S, Hopkins K, Arnold L, **Harrison XA**. Faecal microbiome varies with social group, age and bovine tuberculosis infection in the European Badger (_Meles meles_). <https://ecoevorxiv.org/repository/view/9441/>
+* Meadows N, Delahay R, McDonald R, Powell S, Hopkins K, Arnold L, **Harrison XA**. Faecal microbiome varies with social group, age and bovine tuberculosis infection in the European Badger (_Meles meles_). <https://onlinelibrary.wiley.com/doi/full/10.1111/mec.70369>
 
 * Bowland AC, Bersacola E, Ramon M, Bessa J, Melin AD, Carrigan MA, **Harrison XA**, Hockings KJ. Wild chimpanzees share fermented fruits. Current Biology. 2025 Apr 21;35(8):R279-80. <https://doi.org/10.1016/j.cub.2025.02.067>
 
