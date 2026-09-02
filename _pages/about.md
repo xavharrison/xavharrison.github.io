@@ -21,11 +21,15 @@ If you'd like to join the lab, please get in touch via email.
 Group News
 ======
 
+- **New Lab Member - Dr April Hayes**
+
+April has recently joined the lab as a postdoctoral research fellow on our new UKRI grant investigating the role of migratory birds in the spread of antmicrobial resistance (AMR). Welcome April! More info on the [People](people.md) page.
+
+- **PhD Projects for 2027 Start**
+We will soon be advertising for new PhD students to join the lab in 2027 on competitively funded studentships - focussed on wildlide disease and AMR. Watch this space for more information
+
 - **New Publication: Gut Microbiome Dynamics and Bovine Tb in European Badgers**
 Tasha's first first-author publication is now out in Molecular Ecology! Here we examine social group and age effects on gut microbiome in badgers, and ask whether gut microbiome composition predicts susceptibility to bovine Tb. Read [the paper here](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.70369) 
-
-- **New NERC PtF Grant: AMR Dynamics in Migratory Birds**
-We have recently been awarded a 3 year NERC grant to study the role of migratory birds in the spread of antmicrobial resistance (AMR). The role will involve fieldwork in Ireland and Iceland, as well as a lot of lab work to profile bird gut microbiomes and 'resistomes' (collections of resistance genes/ARGs). If you think this skillset is aligned with your research interests then please get in touch!
 
 - **NERC PtF Grant: Microbiomes, Scent and Identity in Banded Mongooses**
 We will also soon be recruiting a Postdoc to work on a project examining the role of the microbiome in shaping scent profiles and identity in a social mammal. We want to test the idea that scent-based identity shapes the frequency of conflict and cooperation in animal societies. Lots of lab work and an opportunity to visit the field site in Uganda. Please do get in touch.  
