@@ -16,12 +16,18 @@ Below is a list of active projects in the lab. If you'd like any more informatio
 ## AMR, Microbiomes and Migratory Bird Health
 ![]({% link images/brent_feeding.png %}){:width="250" height="250" .align-left}
 We have just launched our new NERC Pushing the Frontiers grant investigating the dynamics of antimicrobial resistance (AMR) transmission in wildlife, using light-bellied Brent geese (pictured) as a model. 
-We will be following Brent geese across their migratory journey from Ireland to Iceland to try and understand how they pick up and transmit AMR. We will build high resolution social networks to measure how much AMR transmission is direct, and profile the resistomes of their environment to see what they are exposed to as they go about heir lives. This work builds on previous Leverhulme Trust-funded research investigation the dynamics of the Brent goose gut microbiome and their impact on nutrition and body condition. 
+<br/>  
+
+We will be following Brent geese across their migratory journey from Ireland to Iceland to try and understand how they pick up and transmit AMR. We will build high resolution social networks to measure how much AMR transmission is direct, and profile the resistomes of their environment to see what they are exposed to as they go about heir lives. This work builds on previous Leverhulme Trust-funded research investigation the dynamics of the Brent goose gut microbiome and their impact on nutrition and body condition.
+<br/>   
 The Resistomes grant sits alongside the NERC-funded 'Transformers' grant, also on Brent geese, led by Prof Stu Bearhop & Dr Aimée McIntosh, both at Exeter. 
 {:style="clear: left"}
 
-![]({% link images/brent_amr.png %}){:width="250" height="250" .align-left}
-  
+![]({% link images/brent_amr.png %}){:width="400" height="400" .align-center}
+
+<br/>
+<br/>      
+<br/>
   
 ## Badgers, the Environment, and Bovine Tuberculosis
 ![]({% link images/very_wet_badger.jpg %}){:width="250" height="250" .align-left}
