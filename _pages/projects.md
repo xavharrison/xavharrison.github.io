@@ -13,6 +13,16 @@ redirect_from:
 
 Below is a list of active projects in the lab. If you'd like any more information about these projects, or would like to enquire about working with me on one of them, then please drop me an email. 
 
+## AMR, Microbiomes and Migratory Bird Health
+![]({% link images/brent_feeding.png %}){:width="250" height="250" .align-left}
+We have just launched our new NERC Pushing the Frontiers grant investigating the dynamics of antimicrobial resistance (AMR) transmission in wildlife, using light-bellied Brent geese (pictured) as a model. 
+We will be following Brent geese across their migratory journey from Ireland to Iceland to try and understand how they pick up and transmit AMR. We will build high resolution social networks to measure how much AMR transmission is direct, and profile the resistomes of their environment to see what they are exposed to as they go about heir lives. This work builds on previous Leverhulme Trust-funded research investigation the dynamics of the Brent goose gut microbiome and their impact on nutrition and body condition. 
+The Resistomes grant sits alongside the NERC-funded 'Transformers' grant, also on Brent geese, led by Prof Stu Bearhop & Dr Aimée McIntosh, both at Exeter. 
+{:style="clear: left"}
+
+![]({% link images/brent_amr.png %}){:width="250" height="250" .align-left}
+  
+  
 ## Badgers, the Environment, and Bovine Tuberculosis
 ![]({% link images/very_wet_badger.jpg %}){:width="250" height="250" .align-left}
 We use badgers as a model for understanding the interactions between the gut microbiome and immunity, given the signfiicant role they play as reservoirs of the zoonotic pathogen _Mycobacterium bovis_. We are particularly interested in estimating the relative importance of direct (host-host) and indirect (host-environment) pathways as conduits for the spread of both commensal and pathogenic microbes. 
@@ -20,15 +30,8 @@ Photo (C) By Andy Morffew
 {:style="clear: left"}
 
 <br/>
-      
-## Gut Microbiomes and Migratory Bird Health
-![]({% link images/brent_feeding.png %}){:width="250" height="250" .align-left}
-Gut-associated microbes provide a molecular toolkit for their animal hosts, shaping immunity, digestion and nutrition. This project, currently funded by the Leverhulme Trust, looks at how animal social networks and habitat selection can shape the gut microbiome. We want to understand how these communities change over time within individuals, and what the consequences are of differences in gut microbiota dynamics for downstream body condiiton and health. We use the light-bellied Brent goose (pictured) as a model for this work. 
-{:style="clear: left"}
-  
+<br/>      
 <br/>
-<br/>
-
 
 ## Dog Diet and Gut Microbiomes
 ![]({% link images/dog_microbiome_amr.png %}){:width="250" height="250" .align-left}
@@ -39,8 +42,5 @@ Companion animals like dogs play a fundamental part in our lives, and are import
 <br/>
 <br/>  
 
-
-## Healthy Seas and Healthy People
-![]({% link images/healthyseas.png %}){:width="250" height="250" .align-left}
-Seas, Rivers and Oceans are a vital component of ecosystem health, but are currently threatened by ever-increasing burdens of pollution. We want to understand how pollution changes the microbial dynamics of these ecosystems, and what risks pollution poses for both humans and animals. We use sequencing to profile the microbial communities in seawater and look for signatures of increases in both pathogenic bacteria and bacteria carrying genes for AMR.   
-{:style="clear: left"}
+## Mongoose Scent, Microbiomes & Group Identity 
+TBC
