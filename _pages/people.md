@@ -10,7 +10,7 @@ author_profile: false
 # Current Lab Members
 
 ## Dr April Hayes (NERC funded PDRF)
-![]({% link images/april_hayes_photo.jpeg %}){:width="200" height="150" .align-left}
+![]({% link images/april_hayes_photo.jpg %}){:width="200" height="150" .align-left}
 April is a microbiologist who is interested in the drivers and dynamics of antimicrobial resistance evolution and spread within microbial communities. Her research has previously identified how mixtures enhance the selectivity of antibiotics, and where and when environmental pollutants select for AMR. She brings a wealth of AMR epxertise to the Brent goose project as we try and understand the social and environmental drivers of AMR in wildlife. 
 Contact April at a.hayes4{at}exeter.ac.uk
 
