@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-- __New Preprint:__ Our latest paper on our National Geographic funded research on the dynamics of skin microbiome in the critically endangered frog _Craugastor ranoides_ is now available as [Preprint](https://www.biorxiv.org/content/10.1101/2025.08.06.668623v1.abstract).
+- __New Paper:__ Our latest work from our National Geographic funded research on the dynamics of skin microbiome in the critically endangered frog _Craugastor ranoides_ has just been accepted at _Animal Conservation_. Link to paper shortly. Also available as a [Preprint](https://www.biorxiv.org/content/10.1101/2025.08.06.668623v1.abstract).
 
-- __New Preprint:__ PhD Student Tasha Meadows leads on a paper investigating the drivers of among-individual varition in gut microbiome composition and dynamics in the European Badger _Meles meles_. Read the paper  [here](https://ecoevorxiv.org/repository/dashboard/9441/). 
-
-- __Chimps Share Fermented Fruits!__ Read our recent work on the sharing of fermented fruits by Chimpanzees published in [Current Biology](https://doi.org/10.1016/j.cub.2025.02.067)
+- __New Paper:__ Awesome new paper led by Phil Jervis on amphibian antimicrobial peptide defences just published in [Nature Chemical Biology](https://www.nature.com/articles/s41589-026-02254-6)
 
 - __New Review on the Animal Virome__: A recent collaborative review out now in _Proc B_ on the causes and consequences of [virome variation in animals](https://doi.org/10.1098/rspb.2025.0389). 
 
