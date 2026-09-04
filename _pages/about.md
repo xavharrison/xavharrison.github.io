@@ -21,9 +21,14 @@ If you'd like to join the lab, please get in touch via email.
 Group News
 ======
 
-- **New Lab Member - Dr April Hayes**
+- **New Lab Members!** 
+More info on the [People](people.md) page.
 
-April has recently joined the lab as a postdoctoral research fellow on our new UKRI grant investigating the role of migratory birds in the spread of antmicrobial resistance (AMR). Welcome April! More info on the [People](people.md) page.
+**Dr April Hayes**
+April has recently joined the lab as a postdoctoral research fellow on our new UKRI grant investigating the role of migratory birds in the spread of antmicrobial resistance (AMR). Welcome April! 
+
+**Eleanor Crookes**
+Eleanor has joined us on a BBSRC SWBIO DTP studentship shared between Exeter & Swansea, working on AMR dynamics and tranmission in baboons in South Africa. Welcome Eleanor!
 
 - **PhD Projects for 2027 Start**
 We will soon be advertising for new PhD students to join the lab in 2027 on competitively funded studentships - focussed on wildlide disease and AMR. Watch this space for more information

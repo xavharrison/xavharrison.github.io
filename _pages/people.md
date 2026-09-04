@@ -21,6 +21,10 @@ Contact James at jc233{at}exeter.ac.uk
   {:style="clear: left"}
     
 <br/>
+
+## Eleanor Crookes
+![]({% link images/eleanor_crookes.jpeg %}){:width="200" height="150" .align-left}
+Eleanor’s background in Zoology and Human Evolution and Behaviour has furthered an interest in social behaviour, animal cognition, and individual differences. During her PhD, she will investigate antimicrobial resistance (AMR) in wild chacma baboons (Papio ursinus). Eleanor will examine how behaviour, physiology, and ecology influence AMR transmission. By mapping temporal and spatial variation in the Resistome of known individuals, she aims to identify transmission routes and individual factors shaping AMR carriage and spread. The project is co-supervised by Dr Xav Harrison (University of Exeter) and Dr Ines Fürtbauer (Swansea University). Other supervisors: Dr Neeltje Boogert (University of Exeter), Prof Andrew King (Swansea University).
   
 ## Laura Penny (NERC ECORISC CDT)
 Laura studies the impact of veterinary drugs (wormers and antibiotics) on the gut microbiome of various dung beetle species, all of which are key ecosystem engineers in the UK. Her PhD is in collaboration with the RSPB and CEH, and her field sites are on various farms dotted around Cornwall. 
