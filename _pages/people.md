@@ -9,7 +9,7 @@ author_profile: false
 
 # Current Lab Members
 
-## Dr April Hayes (NERC funded PDRF)
+## Dr April Hayes (NERC PDRF)
 ![]({% link images/april_hayes_photo.jpg %}){:width="200" height="150" .align-left}
 April is a microbiologist who is interested in the drivers and dynamics of antimicrobial resistance evolution and spread within microbial communities. Her research has previously identified how mixtures enhance the selectivity of antibiotics, and where and when environmental pollutants select for AMR. She brings a wealth of AMR epxertise to the Brent goose project as we try and understand the social and environmental drivers of AMR in wildlife. 
 Contact April at a.hayes4{at}exeter.ac.uk
@@ -20,8 +20,9 @@ James is a rare entity in the Wild Microbiome Lab as he doesn't work on microbio
 Contact James at jc233{at}exeter.ac.uk
   {:style="clear: left"}
     
-<br/>
-
+<br/>  
+<br/>  
+<br/>  
 ## Eleanor Crookes
 ![]({% link images/eleanor_crookes.jpeg %}){:width="200" height="150" .align-left}
 Eleanor’s background in Zoology and Human Evolution and Behaviour has furthered an interest in social behaviour, animal cognition, and individual differences. During her PhD, she will investigate antimicrobial resistance (AMR) in wild chacma baboons (Papio ursinus). Eleanor will examine how behaviour, physiology, and ecology influence AMR transmission. By mapping temporal and spatial variation in the Resistome of known individuals, she aims to identify transmission routes and individual factors shaping AMR carriage and spread. The project is co-supervised by Dr Xav Harrison (University of Exeter) and Dr Ines Fürtbauer (Swansea University). Other supervisors: Dr Neeltje Boogert (University of Exeter), Prof Andrew King (Swansea University).
